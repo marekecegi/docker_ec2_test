@@ -1,0 +1,6 @@
+marekecegi
+marek.ecegi@globallogic.com
+6SXhZhX23QR@8r5
+https://github.com/marekecegi/docker_ec2_test.git
+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
+git remote set-url origin https://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@github.com/marekecegi/docker_ec2_test
