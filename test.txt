@@ -1,7 +1,7 @@
 sudo yum update -y
 sudo yum install git -y
 git clone https://github.com/marekecegi/docker_ec2_test.git
-//git remote set-url origin https://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@github.com/marekecegi/docker_ec2_test
+#git remote set-url origin https://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@github.com/marekecegi/docker_ec2_test
 cd docker_ec2_test/
 sudo yum install nginx -y
 sudo yum install docker -y
