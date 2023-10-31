@@ -1,0 +1,1 @@
+echo "$(uname -n)" > index.html
